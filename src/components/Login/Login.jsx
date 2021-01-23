@@ -38,6 +38,7 @@ const Title = styled.h1`
 
 const ErrorMsg = styled.p`
   color: #dc3545;
+  text-align:center
 `;
 const InputBox = styled.input`
   padding: 10px 10px;
